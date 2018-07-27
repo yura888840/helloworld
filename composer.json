@@ -2,7 +2,7 @@
     "name": "yuriyobl/hello-world",
     "description": "My first composer project",
     "type": "library",
-    "license": "GNU General Public License",
+    "license": "GPL-3.0-only",
     "authors": [
         {
             "name": "Yurii Oblovatskyi",
