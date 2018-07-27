@@ -1,0 +1,21 @@
+{
+    "name": "yuriyobl/hello-world",
+    "description": "My first composer project",
+    "type": "library",
+    "license": "GNU General Public License",
+    "authors": [
+        {
+            "name": "Yurii Oblovatskyi",
+            "email": "Yurii.Oblovatskyi@check24.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"php": ">=7.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
